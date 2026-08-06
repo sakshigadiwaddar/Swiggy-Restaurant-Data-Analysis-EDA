@@ -1,4 +1,8 @@
 # Swiggy-Restaurant-Data-Analysis-EDA
+----
+
+<img width="1168" height="587" alt="Screenshot 2026-08-06 192052" src="https://github.com/user-attachments/assets/d8965874-01af-44b4-8a9f-b49508d0054c" />
+
 # Project Overview
 
 This project focuses on performing Exploratory Data Analysis (EDA) on Swiggy restaurant data to uncover meaningful insights about restaurant performance, customer ratings, pricing trends, cuisine preferences, and delivery services. The objective was to transform raw restaurant data into actionable business insights using Python-based data analysis and visualization techniques.

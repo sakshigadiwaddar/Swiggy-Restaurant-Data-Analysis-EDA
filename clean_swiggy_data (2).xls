@@ -1,0 +1,601 @@
+Restaurant_Name,Rating,Price,Cuisine,Area,Delivery_Time,Total_Ratings,Restaurant_ID
+Pizza Hut,4.1,350,Pizzas,Hirabaug,25,2600,625226
+Good Flippin' Burgers,4.5,600,"Burger, American, Fast Food",Pavilion Mall,24,2000,834978
+McDonald's,4.4,400,"Burgers, Beverages, Cafe, Desserts",Shivaji Nagar,18,3000,774703
+Burger King,4.1,350,"Burgers, American",Kothrud,25,77000,14548
+Domino's Pizza,3.8,400,"Pizzas, Italian, Pastas, Desserts",Rasta Peth,30,1700,456986
+Subway,4.1,350,"sandwich, Salads, wrap, Healthy Food",Prabhat Road,14,20000,5624
+Olio - The Wood Fired Pizzeria,4.1,300,"Pizzas, Pastas, Italian, Fast Food, Snacks, Beverages, Desserts",Baner Road Baner,32,2900,795918
+The Belgian Waffle Co.,4.6,200,"Waffle, Desserts, Ice Cream, Beverages",JM Road,16,7900,33848
+GLOBO Ice Creams Of The World,4.7,150,"Ice Cream, Desserts, Bakery",Bund Garden Road,15,93000,681302
+The Pizza Project by Oven Story,4.4,400,"Pizzas, Italian, Desserts, Beverages",Narayan Peth,21,146000,837804
+Mealful Rolls - India's Biggest Rolls,4.7,250,"Fast Food, Snacks, North Indian, Desserts",Bund Garden Road,25,482000,402924
+BOOM - Sub Style Sandwiches,4.7,250,"Snacks, Indian, Desserts",Bund Garden Road,25,245000,692169
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,250,"North Indian, Snacks, Fast Food, Tandoor",Koregaon Park,25,153000,616216
+Veg Darbar by Behrouz Biryani,4.0,700,"Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",Erandwane,24,56000,575158
+Wendy's Flavor Fresh Burgers,4.5,500,"Burgers, American, Fast Food, Snacks, Beverages",Erandwane,22,102000,792325
+Persian Darbar,4.3,500,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",Camp,24,7300,663248
+RushHrs,4.4,250,"Burgers, American, Salads, Fast Food, Desserts",Baner,33,26000,2053
+BOSS Burger,4.3,500,"Burgers, American, Fast Food, Snacks",F.C. Road,26,2300,243172
+Blue Tokai Coffee Roasters,4.7,600,"Cafe, Coffee, Beverages",F.C. Road,19,843000,590695
+Itminaan Matka Biryani - Slow Cooked,4.6,250,"Biryani, North Indian, Mughlai",Bund Garden Road,25,347000,402923
+Pizza Hut,4.1,350,Pizzas,Hirabaug,25,2600,625226
+Good Flippin' Burgers,4.5,600,"Burger, American, Fast Food",Pavilion Mall,24,2000,834978
+McDonald's,4.4,400,"Burgers, Beverages, Cafe, Desserts",Shivaji Nagar,18,3000,774703
+Burger King,4.1,350,"Burgers, American",Kothrud,25,77000,14548
+Domino's Pizza,3.8,400,"Pizzas, Italian, Pastas, Desserts",Rasta Peth,30,1700,456986
+Subway,4.1,350,"sandwich, Salads, wrap, Healthy Food",Prabhat Road,14,20000,5624
+Olio - The Wood Fired Pizzeria,4.1,300,"Pizzas, Pastas, Italian, Fast Food, Snacks, Beverages, Desserts",Baner Road Baner,32,2900,795918
+The Belgian Waffle Co.,4.6,200,"Waffle, Desserts, Ice Cream, Beverages",JM Road,16,7900,33848
+GLOBO Ice Creams Of The World,4.7,150,"Ice Cream, Desserts, Bakery",Bund Garden Road,15,93000,681302
+The Pizza Project by Oven Story,4.3,400,"Pizzas, Italian, Desserts, Beverages",Erandwane,23,140000,837952
+Mealful Rolls - India's Biggest Rolls,4.7,250,"Fast Food, Snacks, North Indian, Desserts",Bund Garden Road,25,482000,402924
+BOOM - Sub Style Sandwiches,4.7,250,"Snacks, Indian, Desserts",Bund Garden Road,25,245000,692169
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,250,"North Indian, Snacks, Fast Food, Tandoor",Koregaon Park,25,153000,616216
+Veg Darbar by Behrouz Biryani,4.3,700,"Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",Shaniwar Peth,22,53000,574987
+Wendy's Flavor Fresh Burgers,4.5,500,"Burgers, American, Fast Food, Snacks, Beverages",Erandwane,22,102000,792325
+Persian Darbar,4.3,500,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",Camp,24,7300,663248
+RushHrs,4.4,250,"Burgers, American, Salads, Fast Food, Desserts",Baner,33,26000,2053
+BOSS Burger,4.3,500,"Burgers, American, Fast Food, Snacks",F.C. Road,27,2300,243172
+Blue Tokai Coffee Roasters,4.7,600,"Cafe, Coffee, Beverages",F.C. Road,19,843000,590695
+Itminaan Matka Biryani - Slow Cooked,4.6,250,"Biryani, North Indian, Mughlai",Bund Garden Road,25,347000,402923
+Pizza Hut,4.1,350,Pizzas,Hirabaug,25,2600,625226
+Good Flippin' Burgers,4.5,600,"Burger, American, Fast Food",Pavilion Mall,24,2000,834978
+McDonald's,4.4,400,"Burgers, Beverages, Cafe, Desserts",Shivaji Nagar,18,3000,774703
+Burger King,4.1,350,"Burgers, American",Kothrud,25,77000,14548
+Domino's Pizza,3.8,400,"Pizzas, Italian, Pastas, Desserts",Rasta Peth,30,1700,456986
+Subway,4.1,350,"sandwich, Salads, wrap, Healthy Food",Prabhat Road,14,20000,5624
+Olio - The Wood Fired Pizzeria,4.1,300,"Pizzas, Pastas, Italian, Fast Food, Snacks, Beverages, Desserts",Baner Road Baner,32,2900,795918
+The Belgian Waffle Co.,4.6,200,"Waffle, Desserts, Ice Cream, Beverages",JM Road,16,7900,33848
+GLOBO Ice Creams Of The World,4.7,150,"Ice Cream, Desserts, Bakery",Bund Garden Road,15,93000,681302
+The Pizza Project by Oven Story,4.3,400,"Pizzas, Italian, Desserts, Beverages",Erandwane,23,140000,837952
+Mealful Rolls - India's Biggest Rolls,4.7,250,"Fast Food, Snacks, North Indian, Desserts",Bund Garden Road,25,482000,402924
+BOOM - Sub Style Sandwiches,4.7,250,"Snacks, Indian, Desserts",Bund Garden Road,25,245000,692169
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,250,"North Indian, Snacks, Fast Food, Tandoor",Koregaon Park,25,153000,616216
+Veg Darbar by Behrouz Biryani,4.0,700,"Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",Erandwane,24,56000,575158
+Wendy's Flavor Fresh Burgers,4.5,500,"Burgers, American, Fast Food, Snacks, Beverages",Erandwane,22,102000,792325
+Persian Darbar,4.3,500,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",Camp,24,7300,663248
+RushHrs,4.4,250,"Burgers, American, Salads, Fast Food, Desserts",Baner,33,26000,2053
+BOSS Burger,4.3,500,"Burgers, American, Fast Food, Snacks",F.C. Road,27,2300,243172
+Blue Tokai Coffee Roasters,4.7,600,"Cafe, Coffee, Beverages",F.C. Road,19,843000,590695
+Itminaan Matka Biryani - Slow Cooked,4.6,250,"Biryani, North Indian, Mughlai",Bund Garden Road,25,347000,402923
+Pizza Hut,4.1,350,Pizzas,Hirabaug,25,2600,625226
+Good Flippin' Burgers,4.5,600,"Burger, American, Fast Food",Pavilion Mall,24,2000,834978
+McDonald's,4.4,400,"Burgers, Beverages, Cafe, Desserts",Shivaji Nagar,18,3000,774703
+Burger King,4.1,350,"Burgers, American",Kothrud,25,77000,14548
+Domino's Pizza,3.8,400,"Pizzas, Italian, Pastas, Desserts",Rasta Peth,30,1700,456986
+Subway,4.1,350,"sandwich, Salads, wrap, Healthy Food",Prabhat Road,14,20000,5624
+Olio - The Wood Fired Pizzeria,4.1,300,"Pizzas, Pastas, Italian, Fast Food, Snacks, Beverages, Desserts",Baner Road Baner,32,2900,795918
+The Belgian Waffle Co.,4.6,200,"Waffle, Desserts, Ice Cream, Beverages",JM Road,16,7900,33848
+GLOBO Ice Creams Of The World,4.7,150,"Ice Cream, Desserts, Bakery",Bund Garden Road,15,93000,681302
+The Pizza Project by Oven Story,4.3,400,"Pizzas, Italian, Desserts, Beverages",Erandwane,23,140000,837952
+Mealful Rolls - India's Biggest Rolls,4.7,250,"Fast Food, Snacks, North Indian, Desserts",Bund Garden Road,25,482000,402924
+BOOM - Sub Style Sandwiches,4.7,250,"Snacks, Indian, Desserts",Bund Garden Road,25,245000,692169
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,250,"North Indian, Snacks, Fast Food, Tandoor",Koregaon Park,25,153000,616216
+Veg Darbar by Behrouz Biryani,4.3,700,"Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",Shaniwar Peth,22,53000,574987
+Wendy's Flavor Fresh Burgers,4.5,500,"Burgers, American, Fast Food, Snacks, Beverages",Erandwane,22,102000,792325
+Persian Darbar,4.3,500,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",Camp,24,7300,663248
+RushHrs,4.4,250,"Burgers, American, Salads, Fast Food, Desserts",Baner,33,26000,2053
+BOSS Burger,4.3,500,"Burgers, American, Fast Food, Snacks",F.C. Road,27,2300,243172
+Blue Tokai Coffee Roasters,4.7,600,"Cafe, Coffee, Beverages",F.C. Road,19,843000,590695
+Itminaan Matka Biryani - Slow Cooked,4.6,250,"Biryani, North Indian, Mughlai",Bund Garden Road,25,347000,402923
+Pizza Hut,4.1,350,Pizzas,Hirabaug,25,2600,625226
+Good Flippin' Burgers,4.5,600,"Burger, American, Fast Food",Pavilion Mall,24,2000,834978
+McDonald's,4.4,400,"Burgers, Beverages, Cafe, Desserts",Shivaji Nagar,18,3000,774703
+Burger King,4.1,350,"Burgers, American",Kothrud,25,77000,14548
+Domino's Pizza,3.8,400,"Pizzas, Italian, Pastas, Desserts",Rasta Peth,30,1700,456986
+Subway,4.1,350,"sandwich, Salads, wrap, Healthy Food",Prabhat Road,14,20000,5624
+Olio - The Wood Fired Pizzeria,4.1,300,"Pizzas, Pastas, Italian, Fast Food, Snacks, Beverages, Desserts",Baner Road Baner,32,2900,795918
+The Belgian Waffle Co.,4.6,200,"Waffle, Desserts, Ice Cream, Beverages",JM Road,16,7900,33848
+GLOBO Ice Creams Of The World,4.7,150,"Ice Cream, Desserts, Bakery",Bund Garden Road,15,93000,681302
+The Pizza Project by Oven Story,4.3,400,"Pizzas, Italian, Desserts, Beverages",Erandwane,23,140000,837952
+Mealful Rolls - India's Biggest Rolls,4.7,250,"Fast Food, Snacks, North Indian, Desserts",Bund Garden Road,25,482000,402924
+BOOM - Sub Style Sandwiches,4.7,250,"Snacks, Indian, Desserts",Bund Garden Road,25,245000,692169
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,250,"North Indian, Snacks, Fast Food, Tandoor",Koregaon Park,25,153000,616216
+Veg Darbar by Behrouz Biryani,4.3,700,"Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",Shaniwar Peth,22,53000,574987
+Wendy's Flavor Fresh Burgers,4.5,500,"Burgers, American, Fast Food, Snacks, Beverages",Erandwane,22,102000,792325
+Persian Darbar,4.3,500,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",Camp,24,7300,663248
+RushHrs,4.4,250,"Burgers, American, Salads, Fast Food, Desserts",Baner,33,26000,2053
+BOSS Burger,4.3,500,"Burgers, American, Fast Food, Snacks",F.C. Road,27,2300,243172
+Blue Tokai Coffee Roasters,4.7,600,"Cafe, Coffee, Beverages",F.C. Road,19,843000,590695
+Itminaan Matka Biryani - Slow Cooked,4.6,250,"Biryani, North Indian, Mughlai",Bund Garden Road,25,347000,402923
+Pizza Hut,4.1,350,Pizzas,Hirabaug,25,2600,625226
+Good Flippin' Burgers,4.5,600,"Burger, American, Fast Food",Pavilion Mall,24,2000,834978
+McDonald's,4.4,400,"Burgers, Beverages, Cafe, Desserts",Shivaji Nagar,18,3000,774703
+Burger King,4.1,350,"Burgers, American",Kothrud,25,77000,14548
+Domino's Pizza,3.8,400,"Pizzas, Italian, Pastas, Desserts",Rasta Peth,30,1700,456986
+Subway,4.1,350,"sandwich, Salads, wrap, Healthy Food",Prabhat Road,14,20000,5624
+Olio - The Wood Fired Pizzeria,4.1,300,"Pizzas, Pastas, Italian, Fast Food, Snacks, Beverages, Desserts",Baner Road Baner,32,2900,795918
+The Belgian Waffle Co.,4.6,200,"Waffle, Desserts, Ice Cream, Beverages",JM Road,16,7900,33848
+GLOBO Ice Creams Of The World,4.7,150,"Ice Cream, Desserts, Bakery",Bund Garden Road,15,93000,681302
+The Pizza Project by Oven Story,4.3,400,"Pizzas, Italian, Desserts, Beverages",Erandwane,23,140000,837952
+Mealful Rolls - India's Biggest Rolls,4.7,250,"Fast Food, Snacks, North Indian, Desserts",Bund Garden Road,25,482000,402924
+BOOM - Sub Style Sandwiches,4.7,250,"Snacks, Indian, Desserts",Bund Garden Road,25,245000,692169
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,250,"North Indian, Snacks, Fast Food, Tandoor",Koregaon Park,25,153000,616216
+Veg Darbar by Behrouz Biryani,4.3,700,"Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",Shaniwar Peth,22,53000,574987
+Wendy's Flavor Fresh Burgers,4.5,500,"Burgers, American, Fast Food, Snacks, Beverages",Erandwane,22,102000,792325
+Persian Darbar,4.3,500,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",Camp,24,7300,663248
+RushHrs,4.4,250,"Burgers, American, Salads, Fast Food, Desserts",Baner,33,26000,2053
+BOSS Burger,4.3,500,"Burgers, American, Fast Food, Snacks",F.C. Road,27,2300,243172
+Blue Tokai Coffee Roasters,4.7,600,"Cafe, Coffee, Beverages",F.C. Road,19,843000,590695
+Itminaan Matka Biryani - Slow Cooked,4.6,250,"Biryani, North Indian, Mughlai",Bund Garden Road,25,347000,402923
+Pizza Hut,4.1,350,Pizzas,Hirabaug,25,2600,625226
+Good Flippin' Burgers,4.5,600,"Burger, American, Fast Food",Pavilion Mall,24,2000,834978
+McDonald's,4.4,400,"Burgers, Beverages, Cafe, Desserts",Shivaji Nagar,18,3000,774703
+Burger King,4.1,350,"Burgers, American",Kothrud,25,77000,14548
+Domino's Pizza,3.8,400,"Pizzas, Italian, Pastas, Desserts",Rasta Peth,30,1700,456986
+Subway,4.1,350,"sandwich, Salads, wrap, Healthy Food",Prabhat Road,14,20000,5624
+Olio - The Wood Fired Pizzeria,4.1,300,"Pizzas, Pastas, Italian, Fast Food, Snacks, Beverages, Desserts",Baner Road Baner,32,2900,795918
+The Belgian Waffle Co.,4.6,200,"Waffle, Desserts, Ice Cream, Beverages",JM Road,16,7900,33848
+GLOBO Ice Creams Of The World,4.7,150,"Ice Cream, Desserts, Bakery",Bund Garden Road,15,93000,681302
+The Pizza Project by Oven Story,4.3,400,"Pizzas, Italian, Desserts, Beverages",Erandwane,23,140000,837952
+Mealful Rolls - India's Biggest Rolls,4.7,250,"Fast Food, Snacks, North Indian, Desserts",Bund Garden Road,25,482000,402924
+BOOM - Sub Style Sandwiches,4.7,250,"Snacks, Indian, Desserts",Bund Garden Road,25,245000,692169
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,250,"North Indian, Snacks, Fast Food, Tandoor",Koregaon Park,25,153000,616216
+Veg Darbar by Behrouz Biryani,4.3,700,"Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",Shaniwar Peth,22,53000,574987
+Wendy's Flavor Fresh Burgers,4.5,500,"Burgers, American, Fast Food, Snacks, Beverages",Erandwane,22,102000,792325
+Persian Darbar,4.3,500,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",Camp,24,7300,663248
+RushHrs,4.4,250,"Burgers, American, Salads, Fast Food, Desserts",Baner,33,26000,2053
+BOSS Burger,4.3,500,"Burgers, American, Fast Food, Snacks",F.C. Road,27,2300,243172
+Blue Tokai Coffee Roasters,4.7,600,"Cafe, Coffee, Beverages",F.C. Road,19,843000,590695
+Itminaan Matka Biryani - Slow Cooked,4.6,250,"Biryani, North Indian, Mughlai",Bund Garden Road,25,347000,402923
+Pizza Hut,4.1,350,Pizzas,Hirabaug,25,2600,625226
+Good Flippin' Burgers,4.5,600,"Burger, American, Fast Food",Pavilion Mall,24,2000,834978
+McDonald's,4.4,400,"Burgers, Beverages, Cafe, Desserts",Shivaji Nagar,18,3000,774703
+Burger King,4.1,350,"Burgers, American",Kothrud,25,77000,14548
+Domino's Pizza,3.8,400,"Pizzas, Italian, Pastas, Desserts",Rasta Peth,30,1700,456986
+Subway,4.1,350,"sandwich, Salads, wrap, Healthy Food",Prabhat Road,14,20000,5624
+Olio - The Wood Fired Pizzeria,4.1,300,"Pizzas, Pastas, Italian, Fast Food, Snacks, Beverages, Desserts",Baner Road Baner,32,2900,795918
+The Belgian Waffle Co.,4.6,200,"Waffle, Desserts, Ice Cream, Beverages",JM Road,16,7900,33848
+GLOBO Ice Creams Of The World,4.7,150,"Ice Cream, Desserts, Bakery",Bund Garden Road,15,93000,681302
+The Pizza Project by Oven Story,4.3,400,"Pizzas, Italian, Desserts, Beverages",Erandwane,23,140000,837952
+Mealful Rolls - India's Biggest Rolls,4.7,250,"Fast Food, Snacks, North Indian, Desserts",Bund Garden Road,25,482000,402924
+BOOM - Sub Style Sandwiches,4.7,250,"Snacks, Indian, Desserts",Bund Garden Road,25,245000,692169
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,250,"North Indian, Snacks, Fast Food, Tandoor",Koregaon Park,25,153000,616216
+Veg Darbar by Behrouz Biryani,4.3,700,"Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",Shaniwar Peth,22,53000,574987
+Wendy's Flavor Fresh Burgers,4.5,500,"Burgers, American, Fast Food, Snacks, Beverages",Erandwane,22,102000,792325
+Persian Darbar,4.3,500,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",Camp,24,7300,663248
+RushHrs,4.4,250,"Burgers, American, Salads, Fast Food, Desserts",Baner,33,26000,2053
+BOSS Burger,4.3,500,"Burgers, American, Fast Food, Snacks",F.C. Road,27,2300,243172
+Blue Tokai Coffee Roasters,4.7,600,"Cafe, Coffee, Beverages",F.C. Road,19,843000,590695
+Itminaan Matka Biryani - Slow Cooked,4.6,250,"Biryani, North Indian, Mughlai",Bund Garden Road,25,347000,402923
+Pizza Hut,4.1,350,Pizzas,Hirabaug,25,2600,625226
+Good Flippin' Burgers,4.5,600,"Burger, American, Fast Food",Pavilion Mall,24,2000,834978
+McDonald's,4.4,400,"Burgers, Beverages, Cafe, Desserts",Shivaji Nagar,18,3000,774703
+Burger King,4.1,350,"Burgers, American",Kothrud,25,77000,14548
+Domino's Pizza,3.8,400,"Pizzas, Italian, Pastas, Desserts",Rasta Peth,30,1700,456986
+Subway,4.1,350,"sandwich, Salads, wrap, Healthy Food",Prabhat Road,14,20000,5624
+Olio - The Wood Fired Pizzeria,4.1,300,"Pizzas, Pastas, Italian, Fast Food, Snacks, Beverages, Desserts",Baner Road Baner,32,2900,795918
+The Belgian Waffle Co.,4.6,200,"Waffle, Desserts, Ice Cream, Beverages",JM Road,17,7900,33848
+GLOBO Ice Creams Of The World,4.7,150,"Ice Cream, Desserts, Bakery",Bund Garden Road,15,93000,681302
+The Pizza Project by Oven Story,4.3,400,"Pizzas, Italian, Desserts, Beverages",Erandwane,23,140000,837952
+Mealful Rolls - India's Biggest Rolls,4.7,250,"Fast Food, Snacks, North Indian, Desserts",Bund Garden Road,25,482000,402924
+BOOM - Sub Style Sandwiches,4.7,250,"Snacks, Indian, Desserts",Bund Garden Road,25,245000,692169
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,250,"North Indian, Snacks, Fast Food, Tandoor",Koregaon Park,25,153000,616216
+Veg Darbar by Behrouz Biryani,4.0,700,"Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",Erandwane,24,56000,575158
+Wendy's Flavor Fresh Burgers,4.5,500,"Burgers, American, Fast Food, Snacks, Beverages",Erandwane,22,102000,792325
+Persian Darbar,4.3,500,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",Camp,24,7300,663248
+RushHrs,4.4,250,"Burgers, American, Salads, Fast Food, Desserts",Baner,34,26000,2053
+BOSS Burger,4.3,500,"Burgers, American, Fast Food, Snacks",F.C. Road,27,2300,243172
+Blue Tokai Coffee Roasters,4.7,600,"Cafe, Coffee, Beverages",F.C. Road,19,843000,590695
+Itminaan Matka Biryani - Slow Cooked,4.6,250,"Biryani, North Indian, Mughlai",Bund Garden Road,25,347000,402923
+Pizza Hut,4.1,350,Pizzas,Hirabaug,25,2600,625226
+Good Flippin' Burgers,4.5,600,"Burger, American, Fast Food",Pavilion Mall,24,2000,834978
+McDonald's,4.4,400,"Burgers, Beverages, Cafe, Desserts",Shivaji Nagar,18,3000,774703
+Burger King,4.1,350,"Burgers, American",Kothrud,25,77000,14548
+Domino's Pizza,3.8,400,"Pizzas, Italian, Pastas, Desserts",Rasta Peth,30,1700,456986
+Subway,4.1,350,"sandwich, Salads, wrap, Healthy Food",Prabhat Road,14,20000,5624
+Olio - The Wood Fired Pizzeria,4.1,300,"Pizzas, Pastas, Italian, Fast Food, Snacks, Beverages, Desserts",Baner Road Baner,32,2900,795918
+The Belgian Waffle Co.,4.6,200,"Waffle, Desserts, Ice Cream, Beverages",JM Road,16,7900,33848
+GLOBO Ice Creams Of The World,4.7,150,"Ice Cream, Desserts, Bakery",Bund Garden Road,15,93000,681302
+The Pizza Project by Oven Story,4.3,400,"Pizzas, Italian, Desserts, Beverages",Erandwane,23,140000,837952
+Mealful Rolls - India's Biggest Rolls,4.7,250,"Fast Food, Snacks, North Indian, Desserts",Bund Garden Road,25,482000,402924
+BOOM - Sub Style Sandwiches,4.7,250,"Snacks, Indian, Desserts",Bund Garden Road,25,245000,692169
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,250,"North Indian, Snacks, Fast Food, Tandoor",Koregaon Park,25,153000,616216
+Veg Darbar by Behrouz Biryani,4.3,700,"Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",Shaniwar Peth,22,53000,574987
+Wendy's Flavor Fresh Burgers,4.5,500,"Burgers, American, Fast Food, Snacks, Beverages",Erandwane,22,102000,792325
+Persian Darbar,4.3,500,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",Camp,24,7300,663248
+RushHrs,4.4,250,"Burgers, American, Salads, Fast Food, Desserts",Baner,33,26000,2053
+BOSS Burger,4.3,500,"Burgers, American, Fast Food, Snacks",F.C. Road,27,2300,243172
+Blue Tokai Coffee Roasters,4.7,600,"Cafe, Coffee, Beverages",F.C. Road,19,843000,590695
+Itminaan Matka Biryani - Slow Cooked,4.6,250,"Biryani, North Indian, Mughlai",Bund Garden Road,25,347000,402923
+Pizza Hut,4.1,350,Pizzas,Hirabaug,25,2600,625226
+Good Flippin' Burgers,4.5,600,"Burger, American, Fast Food",Pavilion Mall,24,2000,834978
+McDonald's,4.4,400,"Burgers, Beverages, Cafe, Desserts",Shivaji Nagar,18,3000,774703
+Burger King,4.1,350,"Burgers, American",Kothrud,25,77000,14548
+Domino's Pizza,3.8,400,"Pizzas, Italian, Pastas, Desserts",Rasta Peth,30,1700,456986
+Subway,4.1,350,"sandwich, Salads, wrap, Healthy Food",Prabhat Road,14,20000,5624
+Olio - The Wood Fired Pizzeria,4.1,300,"Pizzas, Pastas, Italian, Fast Food, Snacks, Beverages, Desserts",Baner Road Baner,32,2900,795918
+The Belgian Waffle Co.,4.6,200,"Waffle, Desserts, Ice Cream, Beverages",JM Road,17,7900,33848
+GLOBO Ice Creams Of The World,4.7,150,"Ice Cream, Desserts, Bakery",Bund Garden Road,15,93000,681302
+The Pizza Project by Oven Story,4.3,400,"Pizzas, Italian, Desserts, Beverages",Erandwane,23,140000,837952
+Mealful Rolls - India's Biggest Rolls,4.7,250,"Fast Food, Snacks, North Indian, Desserts",Bund Garden Road,25,482000,402924
+BOOM - Sub Style Sandwiches,4.7,250,"Snacks, Indian, Desserts",Bund Garden Road,25,245000,692169
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,250,"North Indian, Snacks, Fast Food, Tandoor",Koregaon Park,25,153000,616216
+Veg Darbar by Behrouz Biryani,4.3,700,"Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",Shaniwar Peth,20,53000,574987
+Wendy's Flavor Fresh Burgers,4.5,500,"Burgers, American, Fast Food, Snacks, Beverages",Erandwane,22,102000,792325
+Persian Darbar,4.3,500,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",Camp,24,7300,663248
+RushHrs,4.4,250,"Burgers, American, Salads, Fast Food, Desserts",Baner,34,26000,2053
+BOSS Burger,4.3,500,"Burgers, American, Fast Food, Snacks",F.C. Road,27,2300,243172
+Blue Tokai Coffee Roasters,4.7,600,"Cafe, Coffee, Beverages",F.C. Road,19,843000,590695
+Itminaan Matka Biryani - Slow Cooked,4.6,250,"Biryani, North Indian, Mughlai",Bund Garden Road,25,347000,402923
+Pizza Hut,4.1,350,Pizzas,Hirabaug,24,2600,625226
+Good Flippin' Burgers,4.5,600,"Burger, American, Fast Food",Pavilion Mall,23,2000,834978
+McDonald's,4.4,400,"Burgers, Beverages, Cafe, Desserts",Shivaji Nagar,17,3000,774703
+Burger King,4.1,350,"Burgers, American",Kothrud,24,77000,14548
+Domino's Pizza,3.8,400,"Pizzas, Italian, Pastas, Desserts",Rasta Peth,30,1700,456986
+Subway,4.1,350,"sandwich, Salads, wrap, Healthy Food",Prabhat Road,13,20000,5624
+Olio - The Wood Fired Pizzeria,4.1,300,"Pizzas, Pastas, Italian, Fast Food, Snacks, Beverages, Desserts",Baner Road Baner,31,2900,795918
+The Belgian Waffle Co.,4.6,200,"Waffle, Desserts, Ice Cream, Beverages",JM Road,15,7900,33848
+GLOBO Ice Creams Of The World,4.7,150,"Ice Cream, Desserts, Bakery",Bund Garden Road,15,93000,681302
+The Pizza Project by Oven Story,4.3,400,"Pizzas, Italian, Desserts, Beverages",Erandwane,22,140000,837952
+Mealful Rolls - India's Biggest Rolls,4.7,250,"Fast Food, Snacks, North Indian, Desserts",Bund Garden Road,25,482000,402924
+BOOM - Sub Style Sandwiches,4.7,250,"Snacks, Indian, Desserts",Bund Garden Road,25,245000,692169
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,250,"North Indian, Snacks, Fast Food, Tandoor",Koregaon Park,25,153000,616216
+Veg Darbar by Behrouz Biryani,4.3,700,"Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",Shaniwar Peth,19,53000,574987
+Wendy's Flavor Fresh Burgers,4.5,500,"Burgers, American, Fast Food, Snacks, Beverages",Erandwane,22,102000,792325
+Persian Darbar,4.3,500,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",Camp,24,7300,663248
+RushHrs,4.4,250,"Burgers, American, Salads, Fast Food, Desserts",Baner,32,26000,2053
+BOSS Burger,4.3,500,"Burgers, American, Fast Food, Snacks",F.C. Road,25,2300,243172
+Blue Tokai Coffee Roasters,4.7,600,"Cafe, Coffee, Beverages",F.C. Road,18,843000,590695
+Itminaan Matka Biryani - Slow Cooked,4.6,250,"Biryani, North Indian, Mughlai",Bund Garden Road,25,347000,402923
+Pizza Hut,4.1,350,Pizzas,Hirabaug,25,2600,625226
+Good Flippin' Burgers,4.5,600,"Burger, American, Fast Food",Pavilion Mall,24,2000,834978
+McDonald's,4.4,400,"Burgers, Beverages, Cafe, Desserts",Shivaji Nagar,18,3000,774703
+Burger King,4.1,350,"Burgers, American",Kothrud,25,77000,14548
+Domino's Pizza,3.8,400,"Pizzas, Italian, Pastas, Desserts",Rasta Peth,30,1700,456986
+Subway,4.1,350,"sandwich, Salads, wrap, Healthy Food",Prabhat Road,14,20000,5624
+Olio - The Wood Fired Pizzeria,4.1,300,"Pizzas, Pastas, Italian, Fast Food, Snacks, Beverages, Desserts",Baner Road Baner,32,2900,795918
+The Belgian Waffle Co.,4.6,200,"Waffle, Desserts, Ice Cream, Beverages",JM Road,16,7900,33848
+GLOBO Ice Creams Of The World,4.7,150,"Ice Cream, Desserts, Bakery",Bund Garden Road,15,93000,681302
+The Pizza Project by Oven Story,4.3,400,"Pizzas, Italian, Desserts, Beverages",Erandwane,23,140000,837952
+Mealful Rolls - India's Biggest Rolls,4.7,250,"Fast Food, Snacks, North Indian, Desserts",Bund Garden Road,25,482000,402924
+BOOM - Sub Style Sandwiches,4.7,250,"Snacks, Indian, Desserts",Bund Garden Road,25,245000,692169
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,250,"North Indian, Snacks, Fast Food, Tandoor",Koregaon Park,25,153000,616216
+Veg Darbar by Behrouz Biryani,4.0,700,"Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",Erandwane,24,56000,575158
+Wendy's Flavor Fresh Burgers,4.5,500,"Burgers, American, Fast Food, Snacks, Beverages",Erandwane,23,102000,792325
+Persian Darbar,4.3,500,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",Camp,24,7300,663248
+RushHrs,4.4,250,"Burgers, American, Salads, Fast Food, Desserts",Baner,34,26000,2053
+BOSS Burger,4.3,500,"Burgers, American, Fast Food, Snacks",F.C. Road,27,2300,243172
+Blue Tokai Coffee Roasters,4.7,600,"Cafe, Coffee, Beverages",F.C. Road,19,843000,590695
+Itminaan Matka Biryani - Slow Cooked,4.6,250,"Biryani, North Indian, Mughlai",Bund Garden Road,25,347000,402923
+Pizza Hut,4.1,350,Pizzas,Hirabaug,25,2600,625226
+Good Flippin' Burgers,4.5,600,"Burger, American, Fast Food",Pavilion Mall,24,2000,834978
+McDonald's,4.4,400,"Burgers, Beverages, Cafe, Desserts",Shivaji Nagar,18,3000,774703
+Burger King,4.1,350,"Burgers, American",Kothrud,25,77000,14548
+Domino's Pizza,3.8,400,"Pizzas, Italian, Pastas, Desserts",Rasta Peth,30,1700,456986
+Subway,4.1,350,"sandwich, Salads, wrap, Healthy Food",Prabhat Road,15,20000,5624
+Olio - The Wood Fired Pizzeria,4.1,300,"Pizzas, Pastas, Italian, Fast Food, Snacks, Beverages, Desserts",Baner Road Baner,32,2900,795918
+The Belgian Waffle Co.,4.6,200,"Waffle, Desserts, Ice Cream, Beverages",JM Road,16,7900,33848
+GLOBO Ice Creams Of The World,4.7,150,"Ice Cream, Desserts, Bakery",Bund Garden Road,15,93000,681302
+The Pizza Project by Oven Story,4.3,400,"Pizzas, Italian, Desserts, Beverages",Erandwane,23,140000,837952
+Mealful Rolls - India's Biggest Rolls,4.7,250,"Fast Food, Snacks, North Indian, Desserts",Bund Garden Road,25,482000,402924
+BOOM - Sub Style Sandwiches,4.7,250,"Snacks, Indian, Desserts",Bund Garden Road,25,245000,692169
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,250,"North Indian, Snacks, Fast Food, Tandoor",Koregaon Park,25,153000,616216
+Veg Darbar by Behrouz Biryani,4.3,700,"Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",Shaniwar Peth,22,53000,574987
+Wendy's Flavor Fresh Burgers,4.5,500,"Burgers, American, Fast Food, Snacks, Beverages",Erandwane,22,102000,792325
+Persian Darbar,4.3,500,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",Camp,24,7300,663248
+RushHrs,4.4,250,"Burgers, American, Salads, Fast Food, Desserts",Baner,33,26000,2053
+BOSS Burger,4.3,500,"Burgers, American, Fast Food, Snacks",F.C. Road,26,2300,243172
+Blue Tokai Coffee Roasters,4.7,600,"Cafe, Coffee, Beverages",F.C. Road,19,843000,590695
+Itminaan Matka Biryani - Slow Cooked,4.6,250,"Biryani, North Indian, Mughlai",Bund Garden Road,25,347000,402923
+Pizza Hut,4.1,350,Pizzas,Hirabaug,25,2600,625226
+Good Flippin' Burgers,4.5,600,"Burger, American, Fast Food",Pavilion Mall,24,2000,834978
+McDonald's,4.4,400,"Burgers, Beverages, Cafe, Desserts",Shivaji Nagar,18,3000,774703
+Burger King,4.1,350,"Burgers, American",Kothrud,25,77000,14548
+Domino's Pizza,3.8,400,"Pizzas, Italian, Pastas, Desserts",Rasta Peth,30,1700,456986
+Subway,4.1,350,"sandwich, Salads, wrap, Healthy Food",Prabhat Road,14,20000,5624
+Olio - The Wood Fired Pizzeria,4.1,300,"Pizzas, Pastas, Italian, Fast Food, Snacks, Beverages, Desserts",Baner Road Baner,32,2900,795918
+The Belgian Waffle Co.,4.6,200,"Waffle, Desserts, Ice Cream, Beverages",JM Road,16,7900,33848
+GLOBO Ice Creams Of The World,4.7,150,"Ice Cream, Desserts, Bakery",Bund Garden Road,15,93000,681302
+The Pizza Project by Oven Story,4.3,400,"Pizzas, Italian, Desserts, Beverages",Erandwane,23,140000,837952
+Mealful Rolls - India's Biggest Rolls,4.7,250,"Fast Food, Snacks, North Indian, Desserts",Bund Garden Road,25,482000,402924
+BOOM - Sub Style Sandwiches,4.7,250,"Snacks, Indian, Desserts",Bund Garden Road,25,245000,692169
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,250,"North Indian, Snacks, Fast Food, Tandoor",Koregaon Park,25,153000,616216
+Veg Darbar by Behrouz Biryani,4.0,700,"Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",Erandwane,24,56000,575158
+Wendy's Flavor Fresh Burgers,4.5,500,"Burgers, American, Fast Food, Snacks, Beverages",Erandwane,22,102000,792325
+Persian Darbar,4.3,500,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",Camp,24,7300,663248
+RushHrs,4.4,250,"Burgers, American, Salads, Fast Food, Desserts",Baner,33,26000,2053
+BOSS Burger,4.3,500,"Burgers, American, Fast Food, Snacks",F.C. Road,27,2300,243172
+Blue Tokai Coffee Roasters,4.7,600,"Cafe, Coffee, Beverages",F.C. Road,19,843000,590695
+Itminaan Matka Biryani - Slow Cooked,4.6,250,"Biryani, North Indian, Mughlai",Bund Garden Road,25,347000,402923
+Pizza Hut,4.1,350,Pizzas,Hirabaug,25,2600,625226
+Good Flippin' Burgers,4.5,600,"Burger, American, Fast Food",Pavilion Mall,24,2000,834978
+McDonald's,4.4,400,"Burgers, Beverages, Cafe, Desserts",Shivaji Nagar,18,3000,774703
+Burger King,4.1,350,"Burgers, American",Kothrud,25,77000,14548
+Domino's Pizza,3.8,400,"Pizzas, Italian, Pastas, Desserts",Rasta Peth,30,1700,456986
+Subway,4.1,350,"sandwich, Salads, wrap, Healthy Food",Prabhat Road,14,20000,5624
+Olio - The Wood Fired Pizzeria,4.1,300,"Pizzas, Pastas, Italian, Fast Food, Snacks, Beverages, Desserts",Baner Road Baner,32,2900,795918
+The Belgian Waffle Co.,4.6,200,"Waffle, Desserts, Ice Cream, Beverages",JM Road,16,7900,33848
+GLOBO Ice Creams Of The World,4.7,150,"Ice Cream, Desserts, Bakery",Bund Garden Road,15,93000,681302
+The Pizza Project by Oven Story,4.3,400,"Pizzas, Italian, Desserts, Beverages",Erandwane,23,140000,837952
+Mealful Rolls - India's Biggest Rolls,4.7,250,"Fast Food, Snacks, North Indian, Desserts",Bund Garden Road,25,482000,402924
+BOOM - Sub Style Sandwiches,4.7,250,"Snacks, Indian, Desserts",Bund Garden Road,25,245000,692169
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,250,"North Indian, Snacks, Fast Food, Tandoor",Koregaon Park,25,153000,616216
+Veg Darbar by Behrouz Biryani,4.0,700,"Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",Erandwane,24,56000,575158
+Wendy's Flavor Fresh Burgers,4.5,500,"Burgers, American, Fast Food, Snacks, Beverages",Erandwane,23,102000,792325
+Persian Darbar,4.3,500,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",Camp,24,7300,663248
+RushHrs,4.4,250,"Burgers, American, Salads, Fast Food, Desserts",Baner,34,26000,2053
+BOSS Burger,4.3,500,"Burgers, American, Fast Food, Snacks",F.C. Road,27,2300,243172
+Blue Tokai Coffee Roasters,4.7,600,"Cafe, Coffee, Beverages",F.C. Road,19,843000,590695
+Itminaan Matka Biryani - Slow Cooked,4.6,250,"Biryani, North Indian, Mughlai",Bund Garden Road,25,347000,402923
+Pizza Hut,4.1,350,Pizzas,Hirabaug,25,2600,625226
+Good Flippin' Burgers,4.5,600,"Burger, American, Fast Food",Pavilion Mall,24,2000,834978
+McDonald's,4.4,400,"Burgers, Beverages, Cafe, Desserts",Shivaji Nagar,18,3000,774703
+Burger King,4.1,350,"Burgers, American",Kothrud,25,77000,14548
+Domino's Pizza,3.8,400,"Pizzas, Italian, Pastas, Desserts",Rasta Peth,30,1700,456986
+Subway,4.1,350,"sandwich, Salads, wrap, Healthy Food",Prabhat Road,14,20000,5624
+Olio - The Wood Fired Pizzeria,4.1,300,"Pizzas, Pastas, Italian, Fast Food, Snacks, Beverages, Desserts",Baner Road Baner,32,2900,795918
+The Belgian Waffle Co.,4.6,200,"Waffle, Desserts, Ice Cream, Beverages",JM Road,17,7900,33848
+GLOBO Ice Creams Of The World,4.7,150,"Ice Cream, Desserts, Bakery",Bund Garden Road,15,93000,681302
+The Pizza Project by Oven Story,4.3,400,"Pizzas, Italian, Desserts, Beverages",Erandwane,23,140000,837952
+Mealful Rolls - India's Biggest Rolls,4.7,250,"Fast Food, Snacks, North Indian, Desserts",Bund Garden Road,25,482000,402924
+BOOM - Sub Style Sandwiches,4.7,250,"Snacks, Indian, Desserts",Bund Garden Road,25,245000,692169
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,250,"North Indian, Snacks, Fast Food, Tandoor",Koregaon Park,25,153000,616216
+Veg Darbar by Behrouz Biryani,4.0,700,"Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",Erandwane,24,56000,575158
+Wendy's Flavor Fresh Burgers,4.5,500,"Burgers, American, Fast Food, Snacks, Beverages",Erandwane,23,102000,792325
+Persian Darbar,4.3,500,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",Camp,24,7300,663248
+RushHrs,4.4,250,"Burgers, American, Salads, Fast Food, Desserts",Baner,34,26000,2053
+BOSS Burger,4.3,500,"Burgers, American, Fast Food, Snacks",F.C. Road,27,2300,243172
+Blue Tokai Coffee Roasters,4.7,600,"Cafe, Coffee, Beverages",F.C. Road,19,843000,590695
+Itminaan Matka Biryani - Slow Cooked,4.6,250,"Biryani, North Indian, Mughlai",Bund Garden Road,25,347000,402923
+Pizza Hut,4.1,350,Pizzas,Hirabaug,25,2600,625226
+Good Flippin' Burgers,4.5,600,"Burger, American, Fast Food",Pavilion Mall,24,2000,834978
+McDonald's,4.4,400,"Burgers, Beverages, Cafe, Desserts",Shivaji Nagar,18,3000,774703
+Burger King,4.1,350,"Burgers, American",Kothrud,25,77000,14548
+Domino's Pizza,3.8,400,"Pizzas, Italian, Pastas, Desserts",Rasta Peth,30,1700,456986
+Subway,4.1,350,"sandwich, Salads, wrap, Healthy Food",Prabhat Road,14,20000,5624
+Olio - The Wood Fired Pizzeria,4.1,300,"Pizzas, Pastas, Italian, Fast Food, Snacks, Beverages, Desserts",Baner Road Baner,32,2900,795918
+The Belgian Waffle Co.,4.6,200,"Waffle, Desserts, Ice Cream, Beverages",JM Road,17,7900,33848
+GLOBO Ice Creams Of The World,4.7,150,"Ice Cream, Desserts, Bakery",Bund Garden Road,15,93000,681302
+The Pizza Project by Oven Story,4.3,400,"Pizzas, Italian, Desserts, Beverages",Erandwane,23,140000,837952
+Mealful Rolls - India's Biggest Rolls,4.7,250,"Fast Food, Snacks, North Indian, Desserts",Bund Garden Road,25,482000,402924
+BOOM - Sub Style Sandwiches,4.7,250,"Snacks, Indian, Desserts",Bund Garden Road,25,245000,692169
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,250,"North Indian, Snacks, Fast Food, Tandoor",Koregaon Park,25,153000,616216
+Veg Darbar by Behrouz Biryani,4.3,700,"Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",Shaniwar Peth,22,53000,574987
+Wendy's Flavor Fresh Burgers,4.5,500,"Burgers, American, Fast Food, Snacks, Beverages",Erandwane,23,102000,792325
+Persian Darbar,4.3,500,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",Camp,24,7300,663248
+RushHrs,4.4,250,"Burgers, American, Salads, Fast Food, Desserts",Baner,33,26000,2053
+BOSS Burger,4.3,500,"Burgers, American, Fast Food, Snacks",F.C. Road,27,2300,243172
+Blue Tokai Coffee Roasters,4.7,600,"Cafe, Coffee, Beverages",F.C. Road,19,843000,590695
+Itminaan Matka Biryani - Slow Cooked,4.6,250,"Biryani, North Indian, Mughlai",Bund Garden Road,25,347000,402923
+Pizza Hut,4.1,350,Pizzas,Hirabaug,23,2600,625226
+Good Flippin' Burgers,4.5,600,"Burger, American, Fast Food",Pavilion Mall,24,2000,834978
+McDonald's,4.4,400,"Burgers, Beverages, Cafe, Desserts",Shivaji Nagar,18,3000,774703
+Burger King,4.1,350,"Burgers, American",Kothrud,25,77000,14548
+Domino's Pizza,3.8,400,"Pizzas, Italian, Pastas, Desserts",Rasta Peth,30,1700,456986
+Subway,4.1,350,"sandwich, Salads, wrap, Healthy Food",Prabhat Road,15,20000,5624
+Olio - The Wood Fired Pizzeria,4.1,300,"Pizzas, Pastas, Italian, Fast Food, Snacks, Beverages, Desserts",Baner Road Baner,32,2900,795918
+The Belgian Waffle Co.,4.6,200,"Waffle, Desserts, Ice Cream, Beverages",JM Road,17,7900,33848
+GLOBO Ice Creams Of The World,4.7,150,"Ice Cream, Desserts, Bakery",Bund Garden Road,15,93000,681302
+The Pizza Project by Oven Story,4.3,400,"Pizzas, Italian, Desserts, Beverages",Erandwane,23,140000,837952
+Mealful Rolls - India's Biggest Rolls,4.7,250,"Fast Food, Snacks, North Indian, Desserts",Bund Garden Road,25,482000,402924
+BOOM - Sub Style Sandwiches,4.7,250,"Snacks, Indian, Desserts",Bund Garden Road,25,245000,692169
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,250,"North Indian, Snacks, Fast Food, Tandoor",Koregaon Park,25,153000,616216
+Veg Darbar by Behrouz Biryani,4.3,700,"Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",Shaniwar Peth,20,53000,574987
+Wendy's Flavor Fresh Burgers,4.5,500,"Burgers, American, Fast Food, Snacks, Beverages",Erandwane,23,102000,792325
+Persian Darbar,4.3,500,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",Camp,24,7300,663248
+RushHrs,4.4,250,"Burgers, American, Salads, Fast Food, Desserts",Baner,34,26000,2053
+BOSS Burger,4.3,500,"Burgers, American, Fast Food, Snacks",F.C. Road,27,2300,243172
+Blue Tokai Coffee Roasters,4.7,600,"Cafe, Coffee, Beverages",F.C. Road,19,843000,590695
+Itminaan Matka Biryani - Slow Cooked,4.6,250,"Biryani, North Indian, Mughlai",Bund Garden Road,25,347000,402923
+Pizza Hut,4.1,350,Pizzas,Hirabaug,25,2600,625226
+Good Flippin' Burgers,4.5,600,"Burger, American, Fast Food",Pavilion Mall,24,2000,834978
+McDonald's,4.4,400,"Burgers, Beverages, Cafe, Desserts",Shivaji Nagar,18,3000,774703
+Burger King,4.1,350,"Burgers, American",Kothrud,25,77000,14548
+Domino's Pizza,3.8,400,"Pizzas, Italian, Pastas, Desserts",Rasta Peth,30,1700,456986
+Subway,4.1,350,"sandwich, Salads, wrap, Healthy Food",Prabhat Road,14,20000,5624
+Olio - The Wood Fired Pizzeria,4.1,300,"Pizzas, Pastas, Italian, Fast Food, Snacks, Beverages, Desserts",Baner Road Baner,32,2900,795918
+The Belgian Waffle Co.,4.6,200,"Waffle, Desserts, Ice Cream, Beverages",JM Road,16,7900,33848
+GLOBO Ice Creams Of The World,4.7,150,"Ice Cream, Desserts, Bakery",Bund Garden Road,15,93000,681302
+The Pizza Project by Oven Story,4.3,400,"Pizzas, Italian, Desserts, Beverages",Erandwane,23,140000,837952
+Mealful Rolls - India's Biggest Rolls,4.7,250,"Fast Food, Snacks, North Indian, Desserts",Bund Garden Road,25,482000,402924
+BOOM - Sub Style Sandwiches,4.7,250,"Snacks, Indian, Desserts",Bund Garden Road,25,245000,692169
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,250,"North Indian, Snacks, Fast Food, Tandoor",Koregaon Park,25,153000,616216
+Veg Darbar by Behrouz Biryani,4.0,700,"Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",Erandwane,24,56000,575158
+Wendy's Flavor Fresh Burgers,4.5,500,"Burgers, American, Fast Food, Snacks, Beverages",Erandwane,22,102000,792325
+Persian Darbar,4.3,500,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",Camp,24,7300,663248
+RushHrs,4.4,250,"Burgers, American, Salads, Fast Food, Desserts",Baner,33,26000,2053
+BOSS Burger,4.3,500,"Burgers, American, Fast Food, Snacks",F.C. Road,27,2300,243172
+Blue Tokai Coffee Roasters,4.7,600,"Cafe, Coffee, Beverages",F.C. Road,19,843000,590695
+Itminaan Matka Biryani - Slow Cooked,4.6,250,"Biryani, North Indian, Mughlai",Bund Garden Road,25,347000,402923
+Pizza Hut,4.1,350,Pizzas,Hirabaug,25,2600,625226
+Good Flippin' Burgers,4.5,600,"Burger, American, Fast Food",Pavilion Mall,24,2000,834978
+McDonald's,4.4,400,"Burgers, Beverages, Cafe, Desserts",Shivaji Nagar,18,3000,774703
+Burger King,4.1,350,"Burgers, American",Kothrud,25,77000,14548
+Domino's Pizza,3.8,400,"Pizzas, Italian, Pastas, Desserts",Rasta Peth,30,1700,456986
+Subway,4.1,350,"sandwich, Salads, wrap, Healthy Food",Prabhat Road,14,20000,5624
+Olio - The Wood Fired Pizzeria,4.1,300,"Pizzas, Pastas, Italian, Fast Food, Snacks, Beverages, Desserts",Baner Road Baner,32,2900,795918
+The Belgian Waffle Co.,4.6,200,"Waffle, Desserts, Ice Cream, Beverages",JM Road,17,7900,33848
+GLOBO Ice Creams Of The World,4.7,150,"Ice Cream, Desserts, Bakery",Bund Garden Road,15,93000,681302
+The Pizza Project by Oven Story,4.3,400,"Pizzas, Italian, Desserts, Beverages",Erandwane,23,140000,837952
+Mealful Rolls - India's Biggest Rolls,4.7,250,"Fast Food, Snacks, North Indian, Desserts",Bund Garden Road,25,482000,402924
+BOOM - Sub Style Sandwiches,4.7,250,"Snacks, Indian, Desserts",Bund Garden Road,25,245000,692169
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,250,"North Indian, Snacks, Fast Food, Tandoor",Koregaon Park,25,153000,616216
+Veg Darbar by Behrouz Biryani,4.0,700,"Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",Erandwane,24,56000,575158
+Wendy's Flavor Fresh Burgers,4.5,500,"Burgers, American, Fast Food, Snacks, Beverages",Erandwane,23,102000,792325
+Persian Darbar,4.3,500,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",Camp,24,7300,663248
+RushHrs,4.4,250,"Burgers, American, Salads, Fast Food, Desserts",Baner,33,26000,2053
+BOSS Burger,4.3,500,"Burgers, American, Fast Food, Snacks",F.C. Road,27,2300,243172
+Blue Tokai Coffee Roasters,4.7,600,"Cafe, Coffee, Beverages",F.C. Road,19,843000,590695
+Itminaan Matka Biryani - Slow Cooked,4.6,250,"Biryani, North Indian, Mughlai",Bund Garden Road,25,347000,402923
+Pizza Hut,4.1,350,Pizzas,Hirabaug,25,2600,625226
+Good Flippin' Burgers,4.5,600,"Burger, American, Fast Food",Pavilion Mall,24,2000,834978
+McDonald's,4.4,400,"Burgers, Beverages, Cafe, Desserts",Shivaji Nagar,18,3000,774703
+Burger King,4.1,350,"Burgers, American",Kothrud,25,77000,14548
+Domino's Pizza,3.8,400,"Pizzas, Italian, Pastas, Desserts",Rasta Peth,30,1700,456986
+Subway,4.1,350,"sandwich, Salads, wrap, Healthy Food",Prabhat Road,15,20000,5624
+Olio - The Wood Fired Pizzeria,4.1,300,"Pizzas, Pastas, Italian, Fast Food, Snacks, Beverages, Desserts",Baner Road Baner,32,2900,795918
+The Belgian Waffle Co.,4.6,200,"Waffle, Desserts, Ice Cream, Beverages",JM Road,17,7900,33848
+GLOBO Ice Creams Of The World,4.7,150,"Ice Cream, Desserts, Bakery",Bund Garden Road,15,93000,681302
+The Pizza Project by Oven Story,4.3,400,"Pizzas, Italian, Desserts, Beverages",Erandwane,23,140000,837952
+Mealful Rolls - India's Biggest Rolls,4.7,250,"Fast Food, Snacks, North Indian, Desserts",Bund Garden Road,25,482000,402924
+BOOM - Sub Style Sandwiches,4.7,250,"Snacks, Indian, Desserts",Bund Garden Road,25,245000,692169
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,250,"North Indian, Snacks, Fast Food, Tandoor",Koregaon Park,25,153000,616216
+Veg Darbar by Behrouz Biryani,4.0,700,"Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",Erandwane,24,56000,575158
+Wendy's Flavor Fresh Burgers,4.5,500,"Burgers, American, Fast Food, Snacks, Beverages",Erandwane,23,102000,792325
+Persian Darbar,4.3,500,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",Camp,24,7300,663248
+RushHrs,4.4,250,"Burgers, American, Salads, Fast Food, Desserts",Baner,34,26000,2053
+BOSS Burger,4.3,500,"Burgers, American, Fast Food, Snacks",F.C. Road,27,2300,243172
+Blue Tokai Coffee Roasters,4.7,600,"Cafe, Coffee, Beverages",F.C. Road,19,843000,590695
+Itminaan Matka Biryani - Slow Cooked,4.6,250,"Biryani, North Indian, Mughlai",Bund Garden Road,25,347000,402923
+Pizza Hut,4.1,350,Pizzas,Hirabaug,23,2600,625226
+Good Flippin' Burgers,4.5,600,"Burger, American, Fast Food",Pavilion Mall,24,2000,834978
+McDonald's,4.4,400,"Burgers, Beverages, Cafe, Desserts",Shivaji Nagar,18,3000,774703
+Burger King,4.1,350,"Burgers, American",Kothrud,25,77000,14548
+Domino's Pizza,3.8,400,"Pizzas, Italian, Pastas, Desserts",Rasta Peth,30,1700,456986
+Subway,4.1,350,"sandwich, Salads, wrap, Healthy Food",Prabhat Road,14,20000,5624
+Olio - The Wood Fired Pizzeria,4.1,300,"Pizzas, Pastas, Italian, Fast Food, Snacks, Beverages, Desserts",Baner Road Baner,32,2900,795918
+The Belgian Waffle Co.,4.6,200,"Waffle, Desserts, Ice Cream, Beverages",JM Road,17,7900,33848
+GLOBO Ice Creams Of The World,4.7,150,"Ice Cream, Desserts, Bakery",Bund Garden Road,15,93000,681302
+The Pizza Project by Oven Story,4.3,400,"Pizzas, Italian, Desserts, Beverages",Erandwane,23,140000,837952
+Mealful Rolls - India's Biggest Rolls,4.7,250,"Fast Food, Snacks, North Indian, Desserts",Bund Garden Road,25,482000,402924
+BOOM - Sub Style Sandwiches,4.7,250,"Snacks, Indian, Desserts",Bund Garden Road,25,245000,692169
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,250,"North Indian, Snacks, Fast Food, Tandoor",Koregaon Park,25,153000,616216
+Veg Darbar by Behrouz Biryani,4.0,700,"Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",Erandwane,24,56000,575158
+Wendy's Flavor Fresh Burgers,4.5,500,"Burgers, American, Fast Food, Snacks, Beverages",Erandwane,23,102000,792325
+Persian Darbar,4.3,500,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",Camp,24,7300,663248
+RushHrs,4.4,250,"Burgers, American, Salads, Fast Food, Desserts",Baner,34,26000,2053
+BOSS Burger,4.3,500,"Burgers, American, Fast Food, Snacks",F.C. Road,27,2300,243172
+Blue Tokai Coffee Roasters,4.7,600,"Cafe, Coffee, Beverages",F.C. Road,19,843000,590695
+Itminaan Matka Biryani - Slow Cooked,4.6,250,"Biryani, North Indian, Mughlai",Bund Garden Road,25,347000,402923
+Pizza Hut,4.1,350,Pizzas,Hirabaug,25,2600,625226
+Good Flippin' Burgers,4.5,600,"Burger, American, Fast Food",Pavilion Mall,24,2000,834978
+McDonald's,4.4,400,"Burgers, Beverages, Cafe, Desserts",Shivaji Nagar,18,3000,774703
+Burger King,4.1,350,"Burgers, American",Kothrud,25,77000,14548
+Domino's Pizza,3.8,400,"Pizzas, Italian, Pastas, Desserts",Rasta Peth,30,1700,456986
+Subway,4.1,350,"sandwich, Salads, wrap, Healthy Food",Prabhat Road,14,20000,5624
+Olio - The Wood Fired Pizzeria,4.1,300,"Pizzas, Pastas, Italian, Fast Food, Snacks, Beverages, Desserts",Baner Road Baner,32,2900,795918
+The Belgian Waffle Co.,4.6,200,"Waffle, Desserts, Ice Cream, Beverages",JM Road,17,7900,33848
+GLOBO Ice Creams Of The World,4.7,150,"Ice Cream, Desserts, Bakery",Bund Garden Road,15,93000,681302
+The Pizza Project by Oven Story,4.3,400,"Pizzas, Italian, Desserts, Beverages",Erandwane,23,140000,837952
+Mealful Rolls - India's Biggest Rolls,4.7,250,"Fast Food, Snacks, North Indian, Desserts",Bund Garden Road,25,482000,402924
+BOOM - Sub Style Sandwiches,4.7,250,"Snacks, Indian, Desserts",Bund Garden Road,25,245000,692169
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,250,"North Indian, Snacks, Fast Food, Tandoor",Koregaon Park,25,153000,616216
+Veg Darbar by Behrouz Biryani,4.0,700,"Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",Erandwane,24,56000,575158
+Wendy's Flavor Fresh Burgers,4.5,500,"Burgers, American, Fast Food, Snacks, Beverages",Erandwane,23,102000,792325
+Persian Darbar,4.3,500,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",Camp,24,7300,663248
+RushHrs,4.4,250,"Burgers, American, Salads, Fast Food, Desserts",Baner,34,26000,2053
+BOSS Burger,4.3,500,"Burgers, American, Fast Food, Snacks",F.C. Road,27,2300,243172
+Blue Tokai Coffee Roasters,4.7,600,"Cafe, Coffee, Beverages",F.C. Road,19,843000,590695
+Itminaan Matka Biryani - Slow Cooked,4.6,250,"Biryani, North Indian, Mughlai",Bund Garden Road,25,347000,402923
+Pizza Hut,4.1,350,Pizzas,Hirabaug,25,2600,625226
+Good Flippin' Burgers,4.5,600,"Burger, American, Fast Food",Pavilion Mall,24,2000,834978
+McDonald's,4.4,400,"Burgers, Beverages, Cafe, Desserts",Shivaji Nagar,18,3000,774703
+Burger King,4.1,350,"Burgers, American",Kothrud,25,77000,14548
+Domino's Pizza,3.8,400,"Pizzas, Italian, Pastas, Desserts",Rasta Peth,30,1700,456986
+Subway,4.1,350,"sandwich, Salads, wrap, Healthy Food",Prabhat Road,15,20000,5624
+Olio - The Wood Fired Pizzeria,4.1,300,"Pizzas, Pastas, Italian, Fast Food, Snacks, Beverages, Desserts",Baner Road Baner,32,2900,795918
+The Belgian Waffle Co.,4.6,200,"Waffle, Desserts, Ice Cream, Beverages",JM Road,17,7900,33848
+GLOBO Ice Creams Of The World,4.7,150,"Ice Cream, Desserts, Bakery",Bund Garden Road,15,93000,681302
+The Pizza Project by Oven Story,4.3,400,"Pizzas, Italian, Desserts, Beverages",Erandwane,23,140000,837952
+Mealful Rolls - India's Biggest Rolls,4.7,250,"Fast Food, Snacks, North Indian, Desserts",Bund Garden Road,25,482000,402924
+BOOM - Sub Style Sandwiches,4.7,250,"Snacks, Indian, Desserts",Bund Garden Road,25,245000,692169
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,250,"North Indian, Snacks, Fast Food, Tandoor",Koregaon Park,25,153000,616216
+Veg Darbar by Behrouz Biryani,4.0,700,"Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",Erandwane,24,56000,575158
+Wendy's Flavor Fresh Burgers,4.5,500,"Burgers, American, Fast Food, Snacks, Beverages",Erandwane,22,102000,792325
+Persian Darbar,4.3,500,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",Camp,24,7300,663248
+RushHrs,4.4,250,"Burgers, American, Salads, Fast Food, Desserts",Baner,34,26000,2053
+BOSS Burger,4.3,500,"Burgers, American, Fast Food, Snacks",F.C. Road,27,2300,243172
+Blue Tokai Coffee Roasters,4.7,600,"Cafe, Coffee, Beverages",F.C. Road,19,843000,590695
+Itminaan Matka Biryani - Slow Cooked,4.6,250,"Biryani, North Indian, Mughlai",Bund Garden Road,25,347000,402923
+Pizza Hut,4.1,350,Pizzas,Hirabaug,23,2600,625226
+Good Flippin' Burgers,4.5,600,"Burger, American, Fast Food",Pavilion Mall,24,2000,834978
+McDonald's,4.4,400,"Burgers, Beverages, Cafe, Desserts",Shivaji Nagar,18,3000,774703
+Burger King,4.1,350,"Burgers, American",Kothrud,25,77000,14548
+Domino's Pizza,3.8,400,"Pizzas, Italian, Pastas, Desserts",Rasta Peth,30,1700,456986
+Subway,4.1,350,"sandwich, Salads, wrap, Healthy Food",Prabhat Road,14,20000,5624
+Olio - The Wood Fired Pizzeria,4.1,300,"Pizzas, Pastas, Italian, Fast Food, Snacks, Beverages, Desserts",Baner Road Baner,32,2900,795918
+The Belgian Waffle Co.,4.6,200,"Waffle, Desserts, Ice Cream, Beverages",JM Road,17,7900,33848
+GLOBO Ice Creams Of The World,4.7,150,"Ice Cream, Desserts, Bakery",Bund Garden Road,25,93000,681302
+The Pizza Project by Oven Story,4.3,400,"Pizzas, Italian, Desserts, Beverages",Erandwane,23,140000,837952
+Mealful Rolls - India's Biggest Rolls,4.7,250,"Fast Food, Snacks, North Indian, Desserts",Bund Garden Road,25,482000,402924
+BOOM - Sub Style Sandwiches,4.7,250,"Snacks, Indian, Desserts",Bund Garden Road,25,245000,692169
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,250,"North Indian, Snacks, Fast Food, Tandoor",Koregaon Park,25,153000,616216
+Veg Darbar by Behrouz Biryani,4.0,700,"Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",Erandwane,24,56000,575158
+Wendy's Flavor Fresh Burgers,4.5,500,"Burgers, American, Fast Food, Snacks, Beverages",Erandwane,23,102000,792325
+Persian Darbar,4.3,500,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",Camp,24,7300,663248
+RushHrs,4.4,250,"Burgers, American, Salads, Fast Food, Desserts",Baner,34,26000,2053
+BOSS Burger,4.3,500,"Burgers, American, Fast Food, Snacks",F.C. Road,27,2300,243172
+Blue Tokai Coffee Roasters,4.7,600,"Cafe, Coffee, Beverages",F.C. Road,19,843000,590695
+Itminaan Matka Biryani - Slow Cooked,4.6,250,"Biryani, North Indian, Mughlai",Bund Garden Road,25,347000,402923
+Pizza Hut,4.1,350,Pizzas,Hirabaug,25,2600,625226
+Good Flippin' Burgers,4.5,600,"Burger, American, Fast Food",Pavilion Mall,24,2000,834978
+McDonald's,4.4,400,"Burgers, Beverages, Cafe, Desserts",Shivaji Nagar,18,3000,774703
+Burger King,4.1,350,"Burgers, American",Kothrud,25,77000,14548
+Domino's Pizza,3.8,400,"Pizzas, Italian, Pastas, Desserts",Rasta Peth,30,1700,456986
+Subway,4.1,350,"sandwich, Salads, wrap, Healthy Food",Prabhat Road,14,20000,5624
+Olio - The Wood Fired Pizzeria,4.1,300,"Pizzas, Pastas, Italian, Fast Food, Snacks, Beverages, Desserts",Baner Road Baner,32,2900,795918
+The Belgian Waffle Co.,4.6,200,"Waffle, Desserts, Ice Cream, Beverages",JM Road,17,7900,33848
+GLOBO Ice Creams Of The World,4.7,150,"Ice Cream, Desserts, Bakery",Bund Garden Road,25,93000,681302
+The Pizza Project by Oven Story,4.3,400,"Pizzas, Italian, Desserts, Beverages",Erandwane,23,140000,837952
+Mealful Rolls - India's Biggest Rolls,4.7,250,"Fast Food, Snacks, North Indian, Desserts",Bund Garden Road,25,482000,402924
+BOOM - Sub Style Sandwiches,4.7,250,"Snacks, Indian, Desserts",Bund Garden Road,25,245000,692169
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,250,"North Indian, Snacks, Fast Food, Tandoor",Koregaon Park,25,153000,616216
+Veg Darbar by Behrouz Biryani,4.0,700,"Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",Erandwane,24,56000,575158
+Wendy's Flavor Fresh Burgers,4.5,500,"Burgers, American, Fast Food, Snacks, Beverages",Erandwane,23,102000,792325
+Persian Darbar,4.3,500,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",Camp,24,7300,663248
+RushHrs,4.4,250,"Burgers, American, Salads, Fast Food, Desserts",Baner,34,26000,2053
+BOSS Burger,4.3,500,"Burgers, American, Fast Food, Snacks",F.C. Road,27,2300,243172
+Blue Tokai Coffee Roasters,4.7,600,"Cafe, Coffee, Beverages",F.C. Road,19,843000,590695
+Itminaan Matka Biryani - Slow Cooked,4.6,250,"Biryani, North Indian, Mughlai",Bund Garden Road,25,347000,402923
+Pizza Hut,4.1,350,Pizzas,Hirabaug,23,2600,625226
+Good Flippin' Burgers,4.5,600,"Burger, American, Fast Food",Pavilion Mall,24,2000,834978
+McDonald's,4.4,400,"Burgers, Beverages, Cafe, Desserts",Shivaji Nagar,18,3000,774703
+Burger King,4.1,350,"Burgers, American",Kothrud,25,77000,14548
+Domino's Pizza,3.8,400,"Pizzas, Italian, Pastas, Desserts",Rasta Peth,30,1700,456986
+Subway,4.1,350,"sandwich, Salads, wrap, Healthy Food",Prabhat Road,14,20000,5624
+Olio - The Wood Fired Pizzeria,4.1,300,"Pizzas, Pastas, Italian, Fast Food, Snacks, Beverages, Desserts",Baner Road Baner,32,2900,795918
+The Belgian Waffle Co.,4.6,200,"Waffle, Desserts, Ice Cream, Beverages",JM Road,17,7900,33848
+GLOBO Ice Creams Of The World,4.7,150,"Ice Cream, Desserts, Bakery",Bund Garden Road,25,93000,681302
+The Pizza Project by Oven Story,4.3,400,"Pizzas, Italian, Desserts, Beverages",Erandwane,23,140000,837952
+Mealful Rolls - India's Biggest Rolls,4.7,250,"Fast Food, Snacks, North Indian, Desserts",Bund Garden Road,25,482000,402924
+BOOM - Sub Style Sandwiches,4.7,250,"Snacks, Indian, Desserts",Bund Garden Road,25,245000,692169
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,250,"North Indian, Snacks, Fast Food, Tandoor",Koregaon Park,25,153000,616216
+Veg Darbar by Behrouz Biryani,4.0,700,"Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",Erandwane,24,56000,575158
+Wendy's Flavor Fresh Burgers,4.5,500,"Burgers, American, Fast Food, Snacks, Beverages",Erandwane,23,102000,792325
+Persian Darbar,4.3,500,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",Camp,24,7300,663248
+RushHrs,4.4,250,"Burgers, American, Salads, Fast Food, Desserts",Baner,34,26000,2053
+BOSS Burger,4.3,500,"Burgers, American, Fast Food, Snacks",F.C. Road,27,2300,243172
+Blue Tokai Coffee Roasters,4.7,600,"Cafe, Coffee, Beverages",F.C. Road,19,843000,590695
+Itminaan Matka Biryani - Slow Cooked,4.6,250,"Biryani, North Indian, Mughlai",Bund Garden Road,25,347000,402923
+Pizza Hut,4.1,350,Pizzas,Hirabaug,23,2600,625226
+Good Flippin' Burgers,4.5,600,"Burger, American, Fast Food",Pavilion Mall,24,2000,834978
+McDonald's,4.4,400,"Burgers, Beverages, Cafe, Desserts",Shivaji Nagar,18,3000,774703
+Burger King,4.1,350,"Burgers, American",Kothrud,25,77000,14548
+Domino's Pizza,3.8,400,"Pizzas, Italian, Pastas, Desserts",Rasta Peth,30,1700,456986
+Subway,4.1,350,"sandwich, Salads, wrap, Healthy Food",Prabhat Road,14,20000,5624
+Olio - The Wood Fired Pizzeria,4.1,300,"Pizzas, Pastas, Italian, Fast Food, Snacks, Beverages, Desserts",Baner Road Baner,32,2900,795918
+The Belgian Waffle Co.,4.6,200,"Waffle, Desserts, Ice Cream, Beverages",JM Road,17,7900,33848
+GLOBO Ice Creams Of The World,4.7,150,"Ice Cream, Desserts, Bakery",Bund Garden Road,25,93000,681302
+The Pizza Project by Oven Story,4.3,400,"Pizzas, Italian, Desserts, Beverages",Erandwane,23,140000,837952
+Mealful Rolls - India's Biggest Rolls,4.7,250,"Fast Food, Snacks, North Indian, Desserts",Bund Garden Road,25,482000,402924
+BOOM - Sub Style Sandwiches,4.7,250,"Snacks, Indian, Desserts",Bund Garden Road,25,245000,692169
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,250,"North Indian, Snacks, Fast Food, Tandoor",Koregaon Park,25,153000,616216
+Veg Darbar by Behrouz Biryani,4.0,700,"Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",Erandwane,24,56000,575158
+Wendy's Flavor Fresh Burgers,4.5,500,"Burgers, American, Fast Food, Snacks, Beverages",Erandwane,23,102000,792325
+Persian Darbar,4.3,500,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",Camp,24,7300,663248
+RushHrs,4.4,250,"Burgers, American, Salads, Fast Food, Desserts",Baner,34,26000,2053
+BOSS Burger,4.3,500,"Burgers, American, Fast Food, Snacks",F.C. Road,27,2300,243172
+Blue Tokai Coffee Roasters,4.7,600,"Cafe, Coffee, Beverages",F.C. Road,19,843000,590695
+Itminaan Matka Biryani - Slow Cooked,4.6,250,"Biryani, North Indian, Mughlai",Bund Garden Road,25,347000,402923
+Pizza Hut,4.1,350,Pizzas,Hirabaug,23,2600,625226
+Good Flippin' Burgers,4.5,600,"Burger, American, Fast Food",Pavilion Mall,24,2000,834978
+McDonald's,4.4,400,"Burgers, Beverages, Cafe, Desserts",Shivaji Nagar,18,3000,774703
+Burger King,4.1,350,"Burgers, American",Kothrud,25,77000,14548
+Domino's Pizza,3.8,400,"Pizzas, Italian, Pastas, Desserts",Rasta Peth,30,1700,456986
+Subway,4.1,350,"sandwich, Salads, wrap, Healthy Food",Prabhat Road,15,20000,5624
+Olio - The Wood Fired Pizzeria,4.1,300,"Pizzas, Pastas, Italian, Fast Food, Snacks, Beverages, Desserts",Baner Road Baner,32,2900,795918
+The Belgian Waffle Co.,4.6,200,"Waffle, Desserts, Ice Cream, Beverages",JM Road,17,7900,33848
+GLOBO Ice Creams Of The World,4.7,150,"Ice Cream, Desserts, Bakery",Bund Garden Road,25,93000,681302
+The Pizza Project by Oven Story,4.3,400,"Pizzas, Italian, Desserts, Beverages",Erandwane,23,140000,837952
+Mealful Rolls - India's Biggest Rolls,4.7,250,"Fast Food, Snacks, North Indian, Desserts",Bund Garden Road,25,482000,402924
+BOOM - Sub Style Sandwiches,4.7,250,"Snacks, Indian, Desserts",Bund Garden Road,25,245000,692169
+"Bhatti Chicken - Grilled, NOT Fried!",4.7,250,"North Indian, Snacks, Fast Food, Tandoor",Koregaon Park,25,153000,616216
+Veg Darbar by Behrouz Biryani,4.0,700,"Biryani, North Indian, Kebabs, Mughlai, Beverages, Desserts",Erandwane,24,56000,575158
+Wendy's Flavor Fresh Burgers,4.5,500,"Burgers, American, Fast Food, Snacks, Beverages",Erandwane,23,102000,792325
+Persian Darbar,4.3,500,"North Indian, Biryani, Mughlai, Kebabs, Seafood, Chinese, Desserts, Beverages",Camp,24,7300,663248
+RushHrs,4.4,250,"Burgers, American, Salads, Fast Food, Desserts",Baner,34,26000,2053
+BOSS Burger,4.3,500,"Burgers, American, Fast Food, Snacks",F.C. Road,27,2300,243172
+Blue Tokai Coffee Roasters,4.7,600,"Cafe, Coffee, Beverages",F.C. Road,19,843000,590695
+Itminaan Matka Biryani - Slow Cooked,4.6,250,"Biryani, North Indian, Mughlai",Bund Garden Road,25,347000,402923
